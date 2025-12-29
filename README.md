@@ -150,7 +150,7 @@ Publish the website in the LocalHost.
         <img src="1.jpg" alt="Author Photo">
     </div>
 
-    <div class="author">Joshna.M</div>
+    <div class="author"></div>
     <div class="sec">SEC</div>
 </div>
 
@@ -162,7 +162,8 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![alt text](Output.png)
+<img width="649" height="870" alt="image" src="https://github.com/user-attachments/assets/003cdcc3-cc1d-41ea-a8f6-c1a71dfb2d2a" />
+
 
 
 
